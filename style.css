@@ -1,0 +1,17 @@
+/*p{color: #0000fa}*/
+/*tr{color: #0000fa}*/
+a{color: #0000fa }
+a:link { text-decoration: none}
+a:hover{text-decoration:underline}
+#container{border: 1px solid blue;}
+.leftmenu{white-space:nowrap;border-bottom:1px dotted #666666;margin-bottom:10px;color: #000000;list-style-type: none;}
+.textmain{border-left:1px dashed black;}
+.section{font-weight: bold;font-size: 25px;color: blue}
+.name{font-size:50px;}
+.section2{font-weight: bold;font-size: 20px;color: blue}
+.leftmenu2{padding:0px; margin:0px;}
+strong{color: blue}
+h3{color: blue}
+h2{color: #0000bf}
+.textbold{color:#ba3925}
+.bg{background-color:orange}
